@@ -5,8 +5,8 @@
 <div align="center">
 <picture>
   <object-position: center>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/Substra-logo-white.svg">
-  <source media="(prefers-color-scheme: light)" srcset="profile/Substra-logo-colour.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Substra/.github/edit/main/profile/Substra-logo-white.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Substra/.github/edit/main/profile/Substra-logo-colour.svg">
   <img alt="Substra" src="Substra-logo-colour.svg" width="500">
 </picture>
 </div>
